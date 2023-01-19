@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://akashgoswami.com/">Website</a> •
   <a href="https://twitter.com/akashgoswami_">Twitter</a> •
-  <a href="https://mastodon.world/@akashgoswami">Mastodon</a>
+  <a href="https://hachyderm.io/@akashgoswami">Mastodon</a>
 </p>
 <!--
 **Skyth3r/Skyth3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
