@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://akashgoswami.com/">Website</a> •
   <a href="https://twitter.com/akashgoswami_">Twitter</a> •
+  <a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
   <a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
 </p>
 <!--
