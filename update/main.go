@@ -29,7 +29,7 @@ func main() {
 						<a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
 						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
   					</p>`
-	article := `Latest article from my website: <a href="` + latestFeedItem.Link + `">` + latestFeedItem.Title + `</a>. You can also subscribe to my <a href="` + rssFeed + `">article RSS feed</a>`
+	article := `Latest article from my website: <a href="` + latestFeedItem.Link + `">` + latestFeedItem.Title + `</a>. You can also subscribe to my <a href="` + rssFeed + `">article RSS feed.</a>`
 	updated := `<sub>Last updated on ` + date + `.<sub>`
 	data := fmt.Sprintf("%s\n%s\n%s\n\n%s", title, socialLinks, article, updated)
 
