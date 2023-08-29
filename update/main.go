@@ -29,9 +29,9 @@ func main() {
 						<a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
 						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
   					</p>`
-	article := `Latest article from my website: [` + latestFeedItem.Title + `](` + latestFeedItem.Link + `). You can also subscribe to my [article RSS feed](` + rssFeed + `).`
+	article := `Latest article from my website: <a href="` + latestFeedItem.Link + `">` + latestFeedItem.Title + `</a>. You can also subscribe to my <a href="` + rssFeed + `">article RSS feed</a>`
 	updated := `<sub>Last updated on ` + date + `.<sub>`
-	data := fmt.Sprintf("%s\n%s\n%s\n%s", title, socialLinks, article, updated)
+	data := fmt.Sprintf("%s\n%s\n%s\n\n%s", title, socialLinks, article, updated)
 
 	file, err := os.Create("README.md")
 	if err != nil {
