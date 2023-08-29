@@ -1,22 +1,6 @@
-<h3 align="center">Hello! I'm Akash 👋🏽</h3>
-
-<p align="center">
-  <a href="https://akashgoswami.com/">Website</a> •
-  <a href="https://twitter.com/akashgoswami_">Twitter</a> •
-  <a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
-  <a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
-</p>
-<!--
-**Skyth3r/Skyth3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Hello! I'm Akash 👋🏽</h3><br><p align="center">
+						<a href="https://akashgoswami.com/">Website</a> •
+						<a href="https://twitter.com/akashgoswami_">Twitter</a> •
+						<a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
+						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
+  					</p><br><p>Latest article from my website: **[DRM free books](https://akashgoswami.com/articles/removing-drm-from-kindle-books/)**. You can also subscribe to my [**article RSS feed**](rssFeed).<p><br><sub>Last updated on 29 Aug 2023.<sub>
