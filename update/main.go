@@ -11,27 +11,27 @@ import (
 )
 
 func main() {
-	const rssFeed = "https://akashgoswami.com/articles/index.xml"
-	feedParser := gofeed.NewParser()
-	feed, err := feedParser.ParseURL(rssFeed)
-	if err != nil {
-		log.Fatalf("Error getting feed: %v", err)
-	}
+	const webFeed = "https://akashgoswami.com/articles/index.xml"
+	const devFeed = "https://akashgoswami.dev/posts/index.xml"
 
-	latestFeedItem := feed.Items[0]
+	webFeedItem := getLatestFeedItem(webFeed)
+	devFeedItem := getLatestFeedItem(devFeed)
 
 	date := time.Now().Format("2 Jan 2006")
 
 	title := `<h3 align="center">Hello! I'm Akash 👋🏽</h3>`
 	socialLinks := `<p align="center">
-						<a href="https://akashgoswami.com/">Website</a> •
-						<a href="https://twitter.com/akashgoswami_">Twitter</a> •
-						<a href="https://bsky.app/profile/akashgoswami.com">Bluesky</a> •
-						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
+						<a href="https://akashgoswami.com/" rel="me">Website</a> •
+						<a href="https://akashgoswami.dev/" rel="me">Dev blog</a> •
+						<a href="https://twitter.com/akashgoswami_" rel="me">Twitter</a> •
+						<a href="https://bsky.app/profile/akashgoswami.com" rel="me">Bluesky</a> •
+						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a> •
+						<a href="https://t2.social/akash" rel="me">T2</a>
   					</p>`
-	article := `Latest article from my website: <a href="` + latestFeedItem.Link + `">` + latestFeedItem.Title + `</a>. You can also subscribe to my <a href="` + rssFeed + `">article RSS feed.</a>`
+	article := `Latest article from my website: <a href="` + webFeedItem.Link + `">` + webFeedItem.Title + `</a>. You can also subscribe to my <a href="` + webFeed + `">article RSS feed.</a>`
+	devArticle := `Latest post from my dev blog: <a href="` + devFeedItem.Link + `">` + devFeedItem.Title + `</a>. You can also subscribe to my <a href="` + devFeed + `">dev post RSS feed.</a>`
 	updated := `<sub>Last updated on ` + date + `.<sub>`
-	data := fmt.Sprintf("%s\n%s\n%s\n\n%s", title, socialLinks, article, updated)
+	data := fmt.Sprintf("%s\n%s\n%s\n%s\n\n%s", title, socialLinks, article, devArticle, updated)
 
 	file, err := os.Create("README.md")
 	if err != nil {
@@ -44,4 +44,13 @@ func main() {
 		log.Fatalf("Error writing data to README: %v", err)
 	}
 	file.Sync()
+}
+
+func getLatestFeedItem(input string) *gofeed.Item {
+	feedParser := gofeed.NewParser()
+	feed, err := feedParser.ParseURL(input)
+	if err != nil {
+		log.Fatalf("Error getting feed: %v", err)
+	}
+	return feed.Items[0]
 }
