@@ -28,12 +28,12 @@ func main() {
 						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a> •
 						<a href="https://t2.social/akash" rel="me">T2</a>
   					</p>`
-	article := `Latest article from my website: <a href="` + webFeedItem.Link + `">` + webFeedItem.Title + `</a>. You can also subscribe to my <a href="` + webFeed + `">article RSS feed.</a>`
-	devArticle := `Latest post from my dev blog: <a href="` + devFeedItem.Link + `">` + devFeedItem.Title + `</a>. You can also subscribe to my <a href="` + devFeed + `">dev post RSS feed.</a>`
+	article := `<p>Latest article from my website: <a href="` + webFeedItem.Link + `">` + webFeedItem.Title + `</a>. You can also subscribe to my <a href="` + webFeed + `">article RSS feed.</a></p>`
+	devArticle := `<p>Latest post from my dev blog: <a href="` + devFeedItem.Link + `">` + devFeedItem.Title + `</a>. You can also subscribe to my <a href="` + devFeed + `">dev post RSS feed.</a></p>`
 	updated := `<sub>Last updated on ` + date + `.<sub>`
 	data := fmt.Sprintf("%s\n%s\n%s\n%s\n\n%s", title, socialLinks, article, devArticle, updated)
 
-	file, err := os.Create("README.md")
+	file, err := os.Create("../README.md")
 	if err != nil {
 		log.Fatalf("Unable to create README file. Error: %v", err)
 	}
