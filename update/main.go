@@ -26,7 +26,7 @@ func main() {
 						<a href="https://twitter.com/akashgoswami_" rel="me">Twitter</a> •
 						<a href="https://bsky.app/profile/akashgoswami.com" rel="me">Bluesky</a> •
 						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a> •
-						<a href="https://t2.social/akash" rel="me">T2</a>
+						<a href="https://pebble.is/akash" rel="me">Pebble</a>
   					</p>`
 	article := `<p>Latest article from my website: <a href="` + webFeedItem.Link + `">` + webFeedItem.Title + `</a>. You can also subscribe to my <a href="` + webFeed + `">article RSS feed.</a></p>`
 	devArticle := `<p>Latest post from my dev blog: <a href="` + devFeedItem.Link + `">` + devFeedItem.Title + `</a>. You can also subscribe to my <a href="` + devFeed + `">dev post RSS feed.</a></p>`
