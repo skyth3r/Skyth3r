@@ -3,7 +3,7 @@
 						<a href="https://akash.lol/" rel="me">Links</a> •
 						<a href="https://akashgoswami.com/" rel="me">Website</a> •
 						<a href="https://akashgoswami.dev/" rel="me">Dev blog</a> •
-						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
+						<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a> •
 						<a href="https://bsky.app/profile/akashgoswami.com" rel="me">Bluesky</a>
   					</p>
 <h3>Latest posts</h3>
