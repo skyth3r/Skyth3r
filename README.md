@@ -10,4 +10,4 @@
 <p>Latest article from my website: <a href="https://akashgoswami.com/articles/initial-thoughts-on-robinhood-uk/">Initial thoughts on Robinhood UK</a>. You can also subscribe to my <a href="https://akashgoswami.com/articles/index.xml">article RSS feed.</a></p>
 <p>Latest post from my dev blog: <a href="https://akashgoswami.dev/posts/why-go/">Why Go?</a>. You can also subscribe to my <a href="https://akashgoswami.dev/posts/index.xml">dev post RSS feed.</a></p>
 
-<sub>Last updated on 23 Mar 2024.<sub>
+<sub>Last updated on 25 Mar 2024.<sub>
