@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Akash 👋🏽</h1>
-<p>I'm a Backend Engineer working in cybersecurity, with over 5 years of experience in the fintech industry. I have a strong interest in automation and improving process efficiencys. Right now I use Go, Python, JavaScript, GraphQL, SQL and Cassandra in my day-to-day work and side projects.</p>
+<p>I'm a Backend Engineer working in cybersecurity, with over 5 years of experience in the fintech industry. I have a strong interest in automation and improving process efficiency. Right now I use Go, Python, JavaScript, GraphQL, SQL and Cassandra in my day-to-day work and side projects.</p>
 <p align="center">
 	<a href="https://akash.lol/" rel="me">Links</a> •
 	<a href="https://akashgoswami.com/" rel="me">Website</a> •
