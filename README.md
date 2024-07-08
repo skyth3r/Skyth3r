@@ -7,7 +7,7 @@
 	<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
   	</p>
 <h2>📬 Latest posts</h2>
-<p>Latest article from my website: <a href="https://akashgoswami.com/articles/initial-thoughts-on-robinhood-uk/">Initial thoughts on Robinhood UK</a>.
+<p>Latest article from my website: <a href="https://akashgoswami.com/articles/buying-a-bike/">Buying a bike</a>.
 <p>Latest post from my dev blog: <a href="https://akashgoswami.dev/posts/build-links-site/">Build your own links site in 30 mins</a>.
 <h2>💻 Tech Stack</h2>
 
@@ -19,4 +19,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Skyth3r&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<sub>Last updated on 6 Jul 2024.<sub>
+<sub>Last updated on 8 Jul 2024.<sub>
