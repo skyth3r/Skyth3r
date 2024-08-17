@@ -8,7 +8,7 @@
   	</p>
 <h2>📬 Latest posts</h2>
 <p>Latest article from my website: <a href="https://akashgoswami.com/articles/buying-a-bike/">Buying a bike</a>.
-<p>Latest post from my dev blog: <a href="https://akashgoswami.dev/posts/build-links-site/">Build your own links site in 30 mins</a>.
+<p>Latest post from my dev blog: <a href="https://akashgoswami.dev/posts/automating-my-now-page/">Automating my /now page</a>.
 <h2>💻 Tech Stack</h2>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -19,4 +19,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Skyth3r&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<sub>Last updated on 14 Aug 2024.<sub>
+<sub>Last updated on 17 Aug 2024.<sub>
