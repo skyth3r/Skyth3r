@@ -17,8 +17,5 @@
 <h2>📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Skyth3r&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Skyth3r&theme=city_light&hide_border=false)
-<h2>📈 GitHub Contributions</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=Skyth3r&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <sub>Last updated on 30 Mar 2026.<sub>
