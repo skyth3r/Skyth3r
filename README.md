@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Akash 👋🏽</h1>
-<p>I'm an experienced software engineer specialising in platform security and backend systems, with 7+ years of experience across fintech and developer security tooling. I currently mostly use Go, Python and TypeScript and Postgres for development.</p>
+<p>I'm an experienced software engineer specialising in platform security and backend systems, with 7+ years of experience across fintech and developer security tooling. I currently use Go, Python and TypeScript and Postgres for development.</p>
 <p align="center">
 	<a href="https://akash.lol/" rel="me">Links</a> •
 	<a href="https://akashgoswami.com/" rel="me">Website</a> •
