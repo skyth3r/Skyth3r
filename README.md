@@ -8,9 +8,21 @@
 	<a href="https://hachyderm.io/@akashgoswami" rel="me">Mastodon</a>
   	</p>
 <h2>📬 Latest posts</h2>
-<p>Latest article from my website: <a href="https://akashgoswami.com/articles/becoming-a-homeowner/">Becoming a homeowner</a>.
-<p>Latest note from my website: <a href="https://akashgoswami.com/notes/shelving-the-new-pc-build/">Shelving the new PC Build</a>.
-<p>Latest post from my dev blog: <a href="https://akashgoswami.dev/posts/minimal-shell-setup/">Minimal shell setup</a>.
+
+- [Minimal shell setup](https://akashgoswami.dev/posts/minimal-shell-setup/)
+
+- [Becoming a homeowner](https://akashgoswami.com/articles/becoming-a-homeowner/)
+
+- [Buying an e-bike](https://akashgoswami.com/articles/buying-an-e-bike/)
+
+<h2>📝 Latest notes</h2>
+
+- [Multi-machine development setup](https://akashgoswami.dev/notes/multi-machine-development-setup/)
+
+- [Stop hardcoding secrets in .zshrc](https://akashgoswami.dev/notes/stop-hardcoding-secrets-in-zshrc/)
+
+- [Shelving the new PC Build](https://akashgoswami.com/notes/shelving-the-new-pc-build/)
+
 <h2>💻 Tech Stack</h2>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -18,4 +30,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Skyth3r&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Skyth3r&theme=city_light&hide_border=false)
 
-<sub>Last updated on 16 May 2026.<sub>
+<sub>Last updated on 17 May 2026.<sub>
